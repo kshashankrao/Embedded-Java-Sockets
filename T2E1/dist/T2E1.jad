@@ -1,0 +1,8 @@
+MIDlet-1: T2E1,,t2e1.T2E1
+MIDlet-Jar-Size: 7176
+MIDlet-Jar-URL: T2E1.jar
+MIDlet-Name: T2E1
+MIDlet-Vendor: SaveEarth
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: MEEP-8.0

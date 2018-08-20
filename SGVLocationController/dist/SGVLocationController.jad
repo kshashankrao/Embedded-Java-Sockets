@@ -1,0 +1,8 @@
+MIDlet-1: SGVLocationController,,sgvlocationcontroller.SGVLocationController
+MIDlet-Jar-Size: 4081
+MIDlet-Jar-URL: SGVLocationController.jar
+MIDlet-Name: SGVLocationController
+MIDlet-Vendor: SaveEarth
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: MEEP-8.0
