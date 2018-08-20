@@ -1,0 +1,8 @@
+MIDlet-1: ForestTempControl.,,foresttempcontrol.ForestTempControl
+MIDlet-Jar-Size: 6994
+MIDlet-Jar-URL: ForestTempControl..jar
+MIDlet-Name: ForestTempControl.
+MIDlet-Vendor: SaveEarth
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: MEEP-8.0
